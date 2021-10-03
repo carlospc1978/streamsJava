@@ -12,6 +12,7 @@ public class Principal {
 
         stringsNomesDaMinhaFamilia.stream().forEach(s -> System.out.println(s));
         stringsNomesDaMinhaFamilia.stream().forEach(s -> System.out.println(s));
+        //work in master
 
     }
 
